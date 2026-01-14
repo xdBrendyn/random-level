@@ -1,0 +1,29 @@
+{
+	"geode": "4.10.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "vexitgd.random-level",
+	"resources": {
+		"files": [
+			"logo.png",
+			"resources/smart_random_512.png",
+			"resources/rng_512.png"
+		]
+	},
+	"name": "Random Level",
+	"version": "1.0.0",
+	"logo": "logo.png",
+	"developer": "VexitGD",
+	"description": "",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	},
+	"tags": [		
+		"online",
+		"utility"
+	]
+}
